@@ -2,7 +2,7 @@
 
 The aim of the project is to create a model for classifying flowers from images, which can be used for a mobile application. It was comparison amoung three models based on different architectures (MobileNetV2, DenseNet-121, EfficientNet-B0)
 ## Code
-The code is avaible in [[this]](https://github.com/lpirola13/flower_recognizer) repository.
+This [repository](https://github.com/lpirola13/flower_recognizer) or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I9SpRPgjiCLpr2k7_Y2LS8iCGJlHYWw8?usp=sharing)
 ## Prerequisites
 Since it was used tensorflow is mandatory python 3.5 - 3.8 on a 64-bit system.
 
