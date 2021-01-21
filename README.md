@@ -7,13 +7,7 @@ The code is avaible in [[this]](https://github.com/lpirola13/flower_recognizer) 
 Since it was used tensorflow is mandatory python 3.5 - 3.8 on a 64-bit system.
 
 ## Installation
-The code was executed on Google Colab. To run it on local runtime, use the package manager pip to install the required libraries.
-
-```bash
-pip install requirements.txt
-```
-
-Requirements: 
+The code was executed on Google Colab. To run it on local runtime, use the package manager pip to install the required libraries: 
 * numpy
 * pandas
 * matplotlib
