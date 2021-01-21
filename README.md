@@ -1,4 +1,4 @@
-# AML final project
+# Flower recognizer for mobile application
 
 The aim of the project is to create a model for classifying flowers from images, which can be used for a mobile application. It was comparison amoung three models based on different architectures (MobileNetV2, DenseNet-121, EfficientNet-B0)
 ## Code
